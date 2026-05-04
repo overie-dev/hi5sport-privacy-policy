@@ -9,32 +9,35 @@ This Privacy Policy explains how we collect, use, and protect your information w
 
 We may collect the following types of data:
 
-a. Personal Information
-Email address (via authentication)
-User profile information (name, preferences, sports data)
-b. Location Data
-Approximate and/or precise location
-Used to suggest nearby users, activities, and events
-c. Health & Activity Data
-Steps count
-Distance traveled
-Calories burned
-Activity type (running, walking, cycling, etc.)
-d. Device Information
-Device type
-OS version
-App usage data
+a. Personal Information  
+- Email address (via authentication)  
+- User profile information (name, preferences, sports data)  
+
+b. Location Data  
+- Approximate and/or precise location  
+- Used to suggest nearby users, activities, and events  
+
+c. Health & Activity Data  
+- Steps count  
+- Distance traveled  
+- Calories burned  
+- Activity type (running, walking, cycling, etc.)  
+
+d. Device Information  
+- Device type  
+- OS version  
+- App usage data  
 
 2. How We Use Your Data
 
 We use collected data to:
 
-Provide and improve app features
-Track and analyze sports activities
-Enable social features (chat, groups, challenges, PickMeUp)
-Suggest nearby users and activities
-Send notifications (activities, messages, reminders)
-Ensure app security and performance
+- Provide and improve app features  
+- Track and analyze sports activities  
+- Enable social features (chat, groups, challenges, PickMeUp)  
+- Suggest nearby users and activities  
+- Send notifications (activities, messages, reminders)  
+- Ensure app security and performance  
 
 3. Data Sharing
 
