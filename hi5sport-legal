@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hi5Sport – Account Deletion</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      background: #0e0b1f;
+      color: #ffffff;
+      max-width: 600px;
+      margin: auto;
+    }
+    h1 {
+      color: #ff5acd;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Hi5Sport – Account Deletion</h1>
+
+<p>You can delete your account directly in the app:</p>
+
+<ol>
+  <li>Open Hi5Sport</li>
+  <li>Go to "My Profile"</li>
+  <li>Scroll down</li>
+  <li>Tap "Delete my account"</li>
+  <li>Confirm deletion</li>
+</ol>
+
+<p><strong>All your personal data will be permanently deleted.</strong></p>
+
+<p>Data deleted includes:</p>
+<ul>
+  <li>Profile information</li>
+  <li>Activities</li>
+  <li>Messages</li>
+  <li>Matches</li>
+</ul>
+
+<p>If you have any issues, contact: support@hi5sport.app</p>
+
+</body>
+</html>
